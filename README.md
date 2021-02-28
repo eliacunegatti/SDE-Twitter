@@ -24,7 +24,7 @@ pip install ntlk
 pip install jsonschema
 ```
 
-And then you must set up the ENV variables.
+And then you must set up the ENV variables, you can find a sample [here](https://github.com/eliacunegatti/SDE-Twitter/blob/main/.env_example)
 After all the setup simply run the code using the command 
 ```bash
 flask run
