@@ -17,11 +17,7 @@ After that check to have all the packages used for this project.
 If you are missing some packages here are available all the bash command in order to be sure you will install everything needed to run the code.
 
 ```bash
-pip install pandas
-pip install flask
-pip install tweepy
-pip install ntlk
-pip install jsonschema
+pip install -r requirements.txt
 ```
 
 And then you must set up the ENV variables, you can find a sample [here](https://github.com/eliacunegatti/SDE-Twitter/blob/main/.env_example)
