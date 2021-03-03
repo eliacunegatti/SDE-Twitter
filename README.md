@@ -1,5 +1,5 @@
 # SDE-Twitter
-This is a simple service developed in Flask using Python which allows fetching data from the official Twitter's API.
+This is a service developed in Flask using Python which allows fetching data from the official Twitter's API.
 
 ## Features
 - Search User
@@ -12,10 +12,9 @@ This is a simple service developed in Flask using Python which allows fetching d
 
 ## Installation and setup
 First of all clone the repo.
-Be sure to have Python already installed in your laptop, if not install it.
+Be sure to have Python already installed on your laptop, if not install it.
 After that check to have all the packages used for this project.
-If you are missing some packages here are available all the bash command in order to be sure you will install everything needed to run the code.
-
+If you are missing some packages here are available all the bash commands to be sure you will install everything needed to run the code.
 ```bash
 pip install -r requirements.txt
 ```
